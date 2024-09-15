@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Basic Tee",
+      "sex": "male",
+      "type": "ao",
+      "imageSrc": "/utils/pr1.webp",
+      "imageHoverSrc": "/utils/pr1b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 35,
+      "color": "Black"
+    },
+    {
+      "id": 2,
+      "name": "Basic Tee",
+      "sex": "male",
+      "type": "quan",
+      "imageSrc": "/utils/pr2.webp",
+      "imageHoverSrc": "/utils/pr2b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 35,
+      "color": "Black"
+    },
+    {
+      "id": 3,
+      "name": "Basic Tee",
+      "sex": "male",
+      "type": "ao",
+      "imageSrc": "/utils/pr3.webp",
+      "imageHoverSrc": "/utils/pr3b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 35,
+      "color": "Black"
+    },
+    {
+      "id": 4,
+      "name": "Basic Tee",
+      "sex": "male",
+      "type": "quan",
+      "imageSrc": "/utils/pr4.webp",
+      "imageHoverSrc": "/utils/pr4b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 55,
+      "color": "Black"
+    },
+    {
+      "id": 5,
+      "name": "Basic Tee",
+      "sex": "female",
+      "type": "ao",
+      "imageSrc": "/utils/pr5.webp",
+      "imageHoverSrc": "/utils/pr5b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 65,
+      "color": "Black"
+    },
+    {
+      "id": 6,
+      "name": "Basic Tee666",
+      "sex": "female",
+      "type": "quan",
+      "imageSrc": "/utils/pr6.webp",
+      "imageHoverSrc": "/utils/pr6b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 35,
+      "color": "Black"
+    },
+    {
+      "id": 7,
+      "name": "Basic Tee",
+      "sex": "female",
+      "type": "quan",
+      "imageSrc": "/utils/pr7.webp",
+      "imageHoverSrc": "/utils/pr7b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 35,
+      "color": "Black"
+    },
+    {
+      "id": 8,
+      "name": "Basic Tee",
+      "sex": "female",
+      "type": "quan",
+      "imageSrc": "/utils/pr8.webp",
+      "imageHoverSrc": "/utils/pr8b.webp",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": 35,
+      "color": "Black"
+    }
+  ],
+  "userList": [
+    {
+      "id": 1,
+      "username": "vinh123",
+      "email": "123456789",
+      "password": "vinh123",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": "bf30",
+      "username": "vinh123",
+      "email": "213213213@gmail.com",
+      "password": "18042004"
+    },
+    {
+      "id": "c496",
+      "username": "2251120197",
+      "email": "lephucvinh184@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "ordersHistory": []
+}
